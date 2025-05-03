@@ -1,7 +1,3 @@
-Here’s a **cleaned-up, professional, and well-formatted version** of your README for **Artfull Learning Buddy**. It enhances readability, improves formatting, and removes unnecessary symbols (``) while keeping the tone engaging and informative:
-
----
-
 # 🎓 Artfull Learning Buddy
 
 **Artfull Learning Buddy** is an AI-powered educational platform designed to transform how students learn by **automating the creation of high-quality, engaging educational content**. It offers personalized, multilingual learning experiences across diverse domains, including **Visual Arts**, **Performing Arts**, **Coding**, **Financial Literacy**, and **Science**.
