@@ -113,7 +113,3 @@ Upon visiting **Artfull Learning Buddy**, they:
 **Artfull Learning Buddy** was created with the vision of making high-quality education **accessible, personalized, and engaging**. By harnessing the power of AI and modern web technologies, this platform seeks to revolutionize traditional learning approaches.
 
 > Built by **\[Ayush Lochan, Yogeshwar Tiwari and Vedant Kohad]** — passionate developers and educators committed to using technology for better learning outcomes.
-
----
-
-Would you like help adding badges (e.g., GitHub stars, deployment status), or creating a GIF demo for the README?
